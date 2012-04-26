@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-18 11:37+0100\n"
+"PO-Revision-Date: 2012-04-18 11:37+0100\n"
+"Last-Translator: Philipp Fehre <philipp.fehre@googlemail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../wpagecontact.php:115
+#: ../wpagecontact.php:116
+msgid "Contacts Manager"
+msgstr ""
+
+#: ../wpagecontact.php:140
+msgid "Contacts"
+msgstr ""
+
+#: ../wpagecontact.php:140
+msgid "Show Contact Form"
+msgstr ""
+
+#: ../wpagecontact.php:150
+#: ../wpagecontact.php:197
+#: ../wpagecontact.php:323
+msgid "Firstname"
+msgstr ""
+
+#: ../wpagecontact.php:153
+#: ../wpagecontact.php:200
+#: ../wpagecontact.php:324
+msgid "Lastname"
+msgstr ""
+
+#: ../wpagecontact.php:156
+#: ../wpagecontact.php:203
+#: ../wpagecontact.php:325
+msgid "EMail"
+msgstr ""
+
+#: ../wpagecontact.php:159
+#: ../wpagecontact.php:206
+#: ../wpagecontact.php:326
+msgid "Phone"
+msgstr ""
+
+#: ../wpagecontact.php:162
+#: ../wpagecontact.php:209
+#: ../wpagecontact.php:327
+msgid "Fax"
+msgstr ""
+
+#: ../wpagecontact.php:165
+#: ../wpagecontact.php:212
+#: ../wpagecontact.php:328
+msgid "Company"
+msgstr ""
+
+#: ../wpagecontact.php:168
+#: ../wpagecontact.php:215
+#: ../wpagecontact.php:329
+msgid "Division"
+msgstr ""
+
+#: ../wpagecontact.php:171
+#: ../wpagecontact.php:218
+msgid "Image URL"
+msgstr ""
+
+#: ../wpagecontact.php:174
+#: ../wpagecontact.php:221
+#: ../wpagecontact.php:331
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../wpagecontact.php:177
+#: ../wpagecontact.php:224
+msgid "Is the default contact"
+msgstr ""
+
+#: ../wpagecontact.php:242
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../wpagecontact.php:330
+msgid "Image"
+msgstr ""
+
+#: ../wpagecontact.php:332
+msgid "Default Contact"
+msgstr ""
+
+#: ../wpagecontact.php:333
+msgid "Actions"
+msgstr ""
+
+#: ../wpagecontact.php:354
+msgid "No"
+msgstr ""
+
+#: ../wpagecontact.php:358
+msgid "Yes"
+msgstr ""
+
+#: ../wpagecontact.php:363
+msgid "Edit"
+msgstr ""
+
+#: ../wpagecontact.php:368
+msgid "Delete"
+msgstr ""
+
+#: ../wpagecontact.php:392
+msgid "Contact Relations for Post"
+msgstr ""
+
+#: ../wpagecontact.php:399
+msgid "Contact Relations for Page"
+msgstr ""
+
+#: ../wpagecontact.php:414
+msgid "Associated Contact"
+msgstr ""
+
+#: ../wpagecontact.php:418
+msgid "None"
+msgstr ""
+
+#: ../wpagecontact.php:546
+msgid " "
+msgstr ""
+
